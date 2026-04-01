@@ -1,0 +1,8 @@
+chromadb
+openai
+python-dotenv
+fastapi
+uvicorn
+pydantic
+httpx
+fastmcp

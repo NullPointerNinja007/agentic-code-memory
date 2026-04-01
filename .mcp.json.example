@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "code-search-mcp": {
+      "command": "python",
+      "args": [
+        "${workspaceFolder}/mcp/code_search_mcp.py"
+      ]
+    }
+  }
+}

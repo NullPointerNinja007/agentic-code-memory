@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment and secrets
+.env
+.env.local
+
+# Local vector database (regenerates locally)
+chroma_db/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Cursor local MCP config (use .mcp.json.example)
+.mcp.json
