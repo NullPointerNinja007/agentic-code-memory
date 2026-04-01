@@ -1,6 +1,6 @@
-# Code search backend
+# Agentic code memory
 
-Backend service and tooling for **semantic search over your own code snippets**. You store snippets in a local **ChromaDB** vector database; each snippet is summarized (via OpenAI) and embedded so you can query them in natural language and get matching source back.
+A small **retrieval layer for coding agents** — semantic search over your own snippets. Backend service and tooling so you can **store, embed, and recall** code via natural language. You store snippets in a local **ChromaDB** vector database; each snippet is summarized (via OpenAI) and embedded so you can query them in natural language and get matching source back.
 
 ## What’s in this repo
 
